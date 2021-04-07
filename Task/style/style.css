@@ -1,0 +1,107 @@
+
+body{ 
+    
+    font-family:Arial;
+    
+}
+
+
+.floating-box {
+    float: left;
+    
+    margin-right: 10%;
+
+}
+
+
+
+.Task_box {
+    float: left;
+    margin-top: 20px;
+    margin-right: 5%;
+
+}
+
+#body{
+    
+    margin: 20px 14%;
+
+
+}
+
+
+
+#num{
+
+    margin: 40px 20%;
+
+}
+
+#task_one .task_one,#task_two .task_two,#task_three .task_three, #task_four .task_four{
+    
+    text-decoration: underline; /* Подчеркивание для ссылок */
+}
+
+
+#client_block{
+
+    position: absolute; right:6%;
+
+}
+
+
+div button {
+    border: 1px;
+    color: white;
+    background-color:rgb(63, 152, 253);
+    padding: 10px 24px;
+
+}
+
+
+#form{
+   
+    margin: 40px 30%;
+}
+
+
+
+
+
+/* style for Tasl_three */
+#news_width{
+    margin: 40px 18%;
+}
+ 
+ 
+ .accordion {
+     background-color: #eee;
+     color: #444;
+     cursor: pointer;
+     padding: 18px;
+     width: 100%;
+     text-align: left;
+     border: none;
+     outline: none;
+     transition: 0.4s;
+}
+ 
+ 
+ .active, .accordion:hover {
+     background-color: #ccc;
+}
+ 
+ 
+ .panel {
+     padding: 0 18px;
+     background-color: white;
+     display: none;
+     overflow: hidden;
+}
+ 
+
+
+
+
+
+
